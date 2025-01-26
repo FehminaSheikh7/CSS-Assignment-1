@@ -1,0 +1,67 @@
+*{
+    margin: 0; padding: 5px;
+    color: white;
+    
+}
+h1{
+    color: rgb(80, 79, 79);
+    background-color: rgb(224, 220, 220);
+   
+}
+p.one{
+    background-color: rgb(51, 100, 236);
+   
+}
+p.two{
+    background-color: rgb(80, 148, 250);
+   
+}
+p.three{
+    background-color: rgb(13, 107, 248);
+   
+}
+p.four{
+    background-color: rgb(42, 126, 252);
+    
+}
+p.five{
+    background-color: rgb(54, 95, 228);
+  
+}
+p.six{
+    background-color: rgb(29, 25, 243);
+   
+}
+p.seven{
+   background-color: rgb(54, 50, 238);
+}
+p.eight{
+    background-color: green;
+}
+p.nine{
+    background-color: rgb(255, 6, 180);
+}
+p.ten{
+    background-color: rgb(255, 92, 206);
+}
+p.eleven{
+    background-color: rgb(238, 79, 166);
+}
+p.twelve{
+    background-color: rgb(241, 128, 207);
+}
+p.thirteen{
+    background-color: rgb(243, 97, 199);
+}
+p.fourteen{
+    background-color: rgb(243, 38, 124);
+}
+  
+
+p.fifteen{
+  background-color: rgb(241, 97, 164);
+}
+p.acid{
+    background-color: rgb(238, 21, 130);
+}
+
